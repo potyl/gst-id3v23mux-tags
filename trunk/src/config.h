@@ -1,0 +1,5 @@
+#define GST_PACKAGE_NAME   "GStreamer Pending Plug-ins"
+#define GST_PACKAGE_ORIGIN "GStreamer Bugzilla"
+#define PLUGIN             "id3v23mux"
+#define PACKAGE            "gst-id3v23mux-tags"
+#define VERSION            "0.0.1"
